@@ -1,2 +1,1 @@
-chutiya project  for lund companies..
-please ignore it..
+project that have fliping card features....
